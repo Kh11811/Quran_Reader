@@ -1,7 +1,7 @@
 <h2>Hey</h2></br>
 
 This project is about getting started with API's.</br>
-Here we used an API to get Qran surahs, ayahs and even hear it by the reciter Mishary Al Afasy.</br>
+Here we used an API to get Quran surahs, ayahs and even hear it by the reciter Mishary Al Afasy.</br>
 You will find 2 codes : the first is for local machines using vscode and the second is for users of Google Colab.</br>
 You will be guided to use both of them.</br>
 <h3>1-vscode</h3></br>
