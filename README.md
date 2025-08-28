@@ -10,8 +10,9 @@ open cmd as administrator > <code>pip install requests os pygame time arabic_res
 When running the program you will be able to choose the number of surahs</br>
 Than you have the choice </br>
 1- Read Surah</br>
-2- Read ayah</br>
-3- hear ayah</br>
+2- hear surah</br>
+3- Read ayah</br>
+4- hear ayah</br>
 Accordingly , run the program and enjoy </br>
 <h3>2-Google Colab</h3></br>
 In colab just paste the program and choose the function to run.</br>
